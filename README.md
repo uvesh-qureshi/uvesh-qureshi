@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**uvesh-qureshi/uvesh-qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Uvesh Qureshi
 
-Here are some ideas to get you started:
+🎓 Final Year Student
+💻 Learning Full Stack Development (Django, React, Python, MySQL)
+🚀 Passionate about Data Analysis & Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning: Docker & Data Analysis
+* 💡 Skills: Python, Django, React.js, MySQL
+* 🎯 Goal: Software Developer / Data Analyst
+* 📫 Contact: [uq588948@gmail.com]
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: Python, JavaScript
+* 🌐 Frontend: React.js, HTML, CSS
+* 🗄️ Database: MySQL
+* ⚙️ Tools: Git, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=uvesh-qureshi\&show_icons=true)
+
+---
+
+## 🔥 Projects
+
+* 📌 Hospital Management System
+* 📌 Data Analysis Projects (Pandas, NumPy, Matplotlib)
+* 📌 Resturant_Website
+* 📌 Smart Ambulance Notification System
+* 📌 Crime Of india
+* 
+*  
+* 
+* 
+* 
+
+---
+
+## 🌐 Connect with me
+
+* LinkedIn: (https://www.linkedin.com/in/uvesh-qureshi-a2787b330/)
+* GitHub: https://github.com/uvesh-qureshi
+
+---
+
+⭐ From [Uvesh Qureshi](https://github.com/uvesh-qureshi)
