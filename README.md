@@ -54,3 +54,10 @@
 ---
 
 ⭐ From [Uvesh Qureshi](https://github.com/uvesh-qureshi)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?uvesh-qureshi=uvesh-qureshi&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=uvesh-qureshi&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?uvesh-qureshi=uvesh-qureshi&layout=compact&theme=tokyonight)
